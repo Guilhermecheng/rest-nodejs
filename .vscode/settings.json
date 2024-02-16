@@ -1,0 +1,6 @@
+{
+    "workbench.colorTheme": "DankVaporwave",
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true, 
+    }
+}
